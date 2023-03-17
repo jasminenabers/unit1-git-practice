@@ -129,9 +129,14 @@ $ rm -r drinks
 
 
 ### Step 4
+git init
 
 
 ### Step 5
+$ git remote add origin https://github.com/jasminenabers/unit1-git-practice.git
+git branch -M main
+git push -u origin main
+
 
 
 ### Step 6
